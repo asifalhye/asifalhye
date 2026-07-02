@@ -26,7 +26,7 @@ Before that: marketplace dynamics, ML-powered decision systems, and increasingly
 | Project | Description |
 |---|---|
 | 🏷️ [**pm-portfolio**](https://github.com/asifalhye/pm-portfolio) | Case studies, PRDs, experiment briefs, playbooks — how I think and ship |
-| 🤖 [**conversational-ai-demo**](https://github.com/asifalhye/conversational-ai-demo) | Agentic RAG demo — intent → tools → structured response |
+| 🤖 [**agentic-support-assistant**](https://github.com/asifalhye/agentic-support-assistant) | Agentic RAG demo — intent → tools → structured response |
 | 📊 **OPE competition-aware pricing** | Track-based elasticity + competitor signals → incremental GP ([case study](https://github.com/asifalhye/pm-portfolio/tree/main/case-studies/ope-pricing-competition)) |
 | 🚗 **Sebastian order status (case study)** | Order-aware status cards for conversational AI — PM exercise ([case study](https://github.com/asifalhye/pm-portfolio/tree/main/case-studies/sebastian-order-status)) |
 
@@ -59,7 +59,7 @@ pm-portfolio/
 - [ ] Flesh out marketplace liquidity case study
 - [ ] Add dashboard screenshots (sanitized) to OPE case study
 - [ ] LinkedIn + personal site links
-- [ ] Eval harness notes for conversational-ai-demo
+- [ ] Eval harness notes for agentic-support-assistant
 
 ---
 
