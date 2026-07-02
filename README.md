@@ -66,7 +66,7 @@ pm-portfolio/
 ## Connect
 
 - 📧 ahye@wayfair.com
-- 💼 LinkedIn: *[add URL]*
+- 💼 LinkedIn: *https://www.linkedin.com/in/asif-al-hye/*
 - 📍 US (ET)
 
 ---
